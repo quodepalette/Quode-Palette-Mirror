@@ -1,7 +1,5 @@
 # Quode Palette Mirror
 
-Mirror and control an Android phone from Windows over USB, in a clean dark window with your own branding.
-
 Quode Palette Mirror is a small Python and Tk app that wraps [scrcpy](https://github.com/Genymobile/scrcpy). scrcpy does the heavy lifting (video, input, ADB). This project adds a friendlier front end, phone display controls, and a proper Windows identity for the mirror window.
 
 <p align="center">
